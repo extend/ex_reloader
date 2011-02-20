@@ -1,0 +1,4 @@
+{application, ex_reloader,
+	[{description, "Automatically reload Erlang modules."},
+	 {applications, [kernel, stdlib]},
+	 {vsn, "1.0"}]}.

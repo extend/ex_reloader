@@ -1,0 +1,3 @@
+Erlang module for automatically reloading modified modules during development.
+
+Based on Mochiweb's reloader utility.
